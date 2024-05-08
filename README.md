@@ -1,2 +1,3 @@
 # primer-repositorio
-Mi primer repositorio acá 
+Mi primer repositorio de github
+
